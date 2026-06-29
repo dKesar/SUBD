@@ -3,7 +3,8 @@ import tempfile
 
 import napolnit
 from obshchee import otpechatok_kartinki, podkljuchenie, razlichie, sozdat_tablicu
-
+# реализовать сравнивание под коду картинку
+# совмещать снимки 
 
 def podgotovit_bazu() -> None:
     """Podgotovit bazu: sozdat tablicu i, esli ona pustaja, napolnit."""
